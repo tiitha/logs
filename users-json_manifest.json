@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "version": 1,
+    "name": "employees",
+    "pattern": "json{string:username, string:first_name, string:last_name, string:department}(flat=true) EOL",
+    "totalBytes": 2624,
+    "totalRecords": 28,
+    "data": [
+      {
+        "url": "https://raw.githubusercontent.com/tiitha/logs/main/users.data",
+        "bytes": 2624,
+        "records": 28
+      }
+    ]
+  }
+}
