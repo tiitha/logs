@@ -7,7 +7,7 @@
     "totalRecords": 28,
     "data": [
       {
-        "url": "https://raw.githubusercontent.com/tiitha/logs/main/users.data",
+        "url": "https://raw.githubusercontent.com/tiitha/logs/main/users-json.data",
         "bytes": 2624,
         "records": 28
       }
